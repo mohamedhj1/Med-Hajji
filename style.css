@@ -433,12 +433,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 150px;
-    height: 150px;
+    width: 160px;
+    height: 160px;
 }
 
 .svg-icon {
-    width: 100px;
+    width: 90px;
     fill: #3d3d3da8 !important;
 }
 
@@ -1109,12 +1109,12 @@ body {
     /**--------------------------------------------------------*/
     /* Skills */
     .swiper-wrapper .swiper-slide {
-        width: 100px;
-        height: 100px;
+        width: 120px;
+        height: 120px;
     }
 
     .svg-icon {
-        width: 75px;
+        width: 70px;
         fill: #3d3d3da8 !important;
     }
 
@@ -1207,7 +1207,7 @@ body {
     }
 
     .svg-icon {
-        width: 75px;
+        width: 70px;
         fill: #3d3d3da8 !important;
     }
 
@@ -1475,7 +1475,7 @@ body {
     }
 
     .svg-icon {
-        width: 74px;
+        width: 75px;
         fill: #3d3d3da8 !important;
     }
 
@@ -1649,12 +1649,12 @@ body {
 
     /* slider */
     .swiper-wrapper .swiper-slide {
-        width: 106px;
-        height: 106px;
+        width: 101px;
+        height: 100px;
     }
 
     .svg-icon {
-        width: 60px;
+        width: 70px;
         fill: #3d3d3da8 !important;
     }
 
